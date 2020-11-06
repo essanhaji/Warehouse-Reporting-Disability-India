@@ -1,6 +1,7 @@
 # Warehouse Reporting Disability India
-
-*  Data Integration and ETL/2001 contains 32 xls downloaded from the [india.gov.in](india.gov.in) for 2001.
+The project is a Business Intelligence solution for Indian disability dataset between 2001 and 2011 offered by the Indian government. And powered by pandas library and Talend studio for ETL process and Pentaho server for creating MDX queries and powerBI for creating dashboard.
+<br>
+* Data Integration and ETL/2001 contains 32 xls downloaded from the [india.gov.in](india.gov.in) for 2001.
 * Data Integration and ETL/2011_Pre contains 32 xls downloaded from the [india.gov.in](india.gov.in) for 2011.
 
 * Data Integration and ETL/xxxx_Cleaned is an intermediat step of cleaning.
@@ -34,4 +35,10 @@ When you import the project in Tatend Studio run job that has name "all_jobs.job
 <hr>
 
 
-# Thank you
+## Authors
+* [Abdelati Elasri](https://github.com/iElasri)
+* [El Houcine ES SANHAJI](https://github.com/essanhaji)
+
+<br>
+
+## Thank you.
